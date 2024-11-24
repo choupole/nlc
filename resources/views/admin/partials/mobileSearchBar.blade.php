@@ -503,8 +503,8 @@
                 />
               </svg>
 
-              <span>Influencer Dashboard</span>   
-            </a>
+              <span>Influencer Dashboard</span>
+            </a>    
           </div>
         </div>
       </div>
